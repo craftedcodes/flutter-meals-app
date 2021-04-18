@@ -1,0 +1,4 @@
+#Sun Apr 18 14:21:00 CEST 2021
+base.0=/Users/leaschumacher/code/craftedcodes/flutter_course/flutter_challenge_03/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
